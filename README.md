@@ -3,3 +3,6 @@ A simple MLP classifier implemented using MNIST dataset and numpy library only. 
 
 Latent Space Sample:
 ![alt text](https://github.com/YinPing-Cho/Simple-MLP-Classifier-on-MNIST/blob/master/latentfeature.PNG)
+
+Training Curve Sample:
+![alt text](https://github.com/YinPing-Cho/Simple-MLP-Classifier-on-MNIST/blob/master/training_error_rate.png)
